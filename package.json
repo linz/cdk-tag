@@ -32,6 +32,6 @@
   },
   "devDependencies": {
     "@linzjs/style": "^5.4.0",
-    "@types/node": "^24.0.10"
+    "@types/node": "^24.0.14"
   }
 }
